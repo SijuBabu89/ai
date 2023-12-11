@@ -1,0 +1,249 @@
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 510-807-177
+---- Into the main Function ----
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 510-807-177
+202.191.67.30 - - [31/Oct/2023 06:26:47] "POST /medical-entity HTTP/1.1" 200 -
+---- Into the main Function ----
+-------------------------------------------------------------------------------------
+REQUEST : 
+<Request 'http://ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007/medical-entity' [POST]>
+-------------------------------------------------------------------------------------
+REQUEST FORM : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST HEADERS : 
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+User-Agent: PostmanRuntime/7.33.0
+Accept: */*
+Postman-Token: ed8e6c9f-8d76-4651-a06b-3813c894dcb7
+Host: ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 893
+
+
+-------------------------------------------------------------------------------------
+REQUEST ARGS : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST JSON : 
+{'notes': '59 y/o male patient with h/o dyspepsia, esophageal ulcer, and overweight is here for a follow up after acolonoscopy/EGD. Colonoscopy show examined portion of the ileum was normal, a single colonic ulcer in the cecum, erythematous mucosa in the rectum, and internal hemorrhoids. Advise patient to repeat colonoscopy based on pathology for surveillance. EGD show LA grade C esophagitis, esophageal ulcers, gastroparesis, gastritis, and a normal duodenum. Path report show no significant histopathology on esophagus or stomach. Patient advised to repeat EGD in 3 months to check for healing and for surveillance. Results discussed with patient. Significance of findings and importance of surveillance explained to patient. Anti reflux measures including increase physical activity explained to patient. All patient questions were answered. Patient understand and agrees to plan.'}
+-------------------------------------------------------------------------------------
+AUTHENTICATION
+Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+-------------------------------------------------------------------------------------
+{'Output': 'Dyspepsia, Esophageal Ulcer, Overweight, Colonic Ulcer, Erythematous Mucosa, Internal Hemorrhoids, LA Grade C Esophagitis, Gastroparesis, Gastritis'}
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 510-807-177
+202.191.67.30 - - [31/Oct/2023 06:27:54] "POST /medical-entity HTTP/1.1" 200 -
+202.191.67.30 - - [31/Oct/2023 06:28:25] "POST /medical-entity HTTP/1.1" 200 -
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 510-807-177
+202.191.67.30 - - [31/Oct/2023 06:29:57] "POST /medical-entity HTTP/1.1" 200 -
+202.191.67.30 - - [31/Oct/2023 06:30:19] "POST /medical-entity HTTP/1.1" 200 -
+34.233.37.208 - - [31/Oct/2023 06:53:34] "POST /medical-entity HTTP/1.1" 200 -
+---- Into the main Function ----
+-------------------------------------------------------------------------------------
+REQUEST : 
+<Request 'http://ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007/medical-entity' [POST]>
+-------------------------------------------------------------------------------------
+REQUEST FORM : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST HEADERS : 
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+User-Agent: PostmanRuntime/7.33.0
+Accept: */*
+Postman-Token: 715739d5-6d2d-4c06-91c5-ccfe7994406a
+Host: ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 893
+
+
+-------------------------------------------------------------------------------------
+REQUEST ARGS : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST JSON : 
+{'notes': '59 y/o male patient with h/o dyspepsia, esophageal ulcer, and overweight is here for a follow up after acolonoscopy/EGD. Colonoscopy show examined portion of the ileum was normal, a single colonic ulcer in the cecum, erythematous mucosa in the rectum, and internal hemorrhoids. Advise patient to repeat colonoscopy based on pathology for surveillance. EGD show LA grade C esophagitis, esophageal ulcers, gastroparesis, gastritis, and a normal duodenum. Path report show no significant histopathology on esophagus or stomach. Patient advised to repeat EGD in 3 months to check for healing and for surveillance. Results discussed with patient. Significance of findings and importance of surveillance explained to patient. Anti reflux measures including increase physical activity explained to patient. All patient questions were answered. Patient understand and agrees to plan.'}
+-------------------------------------------------------------------------------------
+AUTHENTICATION
+Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+-------------------------------------------------------------------------------------
+{'Output': 'Dyspepsia, Esophageal Ulcer, Overweight, Colonic Ulcer, Erythematous Mucosa, Internal Hemorrhoids, LA Grade C Esophagitis, Gastroparesis, Gastritis'}
+-------------------------------------------------------------------------------------
+REQUEST : 
+<Request 'http://ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007/medical-entity' [POST]>
+-------------------------------------------------------------------------------------
+REQUEST FORM : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST HEADERS : 
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+User-Agent: PostmanRuntime/7.33.0
+Accept: */*
+Postman-Token: 052e5eaf-a5de-49d3-9af7-b4830c738dc5
+Host: ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007
+Accept-Encoding: gzip, deflate, br
+Connection: keep-alive
+Content-Length: 893
+
+
+-------------------------------------------------------------------------------------
+REQUEST ARGS : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST JSON : 
+{'notes': '59 y/o male patient with h/o dyspepsia, esophageal ulcer, and overweight is here for a follow up after acolonoscopy/EGD. Colonoscopy show examined portion of the ileum was normal, a single colonic ulcer in the cecum, erythematous mucosa in the rectum, and internal hemorrhoids. Advise patient to repeat colonoscopy based on pathology for surveillance. EGD show LA grade C esophagitis, esophageal ulcers, gastroparesis, gastritis, and a normal duodenum. Path report show no significant histopathology on esophagus or stomach. Patient advised to repeat EGD in 3 months to check for healing and for surveillance. Results discussed with patient. Significance of findings and importance of surveillance explained to patient. Anti reflux measures including increase physical activity explained to patient. All patient questions were answered. Patient understand and agrees to plan.'}
+-------------------------------------------------------------------------------------
+AUTHENTICATION
+Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+-------------------------------------------------------------------------------------
+{'Output': 'Dyspepsia, Esophageal Ulcer, Overweight, Colonic Ulcer, Erythematous Mucosa, Internal Hemorrhoids, LA Grade C Esophagitis, Gastroparesis, Gastritis'}
+-------------------------------------------------------------------------------------
+REQUEST : 
+<Request 'http://ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007/medical-entity' [POST]>
+-------------------------------------------------------------------------------------
+REQUEST FORM : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST HEADERS : 
+Accept: application/json
+Authorization: Token eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+Content-Type: application/json; charset=utf-8
+Content-Length: 887
+Host: ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/4.10.0
+
+
+-------------------------------------------------------------------------------------
+REQUEST ARGS : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST JSON : 
+{'notes': '59 y/o male patient with h/o dyspepsia, esophageal ulcer, and overweight is here for a follow up after acolonoscopy/EGD. Colonoscopy show examined portion of the ileum was normal, a single colonic ulcer in the cecum, erythematous mucosa in the rectum, and internal hemorrhoids. Advise patient to repeat colonoscopy based on pathology for surveillance. EGD show LA grade C esophagitis, esophageal ulcers, gastroparesis, gastritis, and a normal duodenum. Path report show no significant histopathology on esophagus or stomach. Patient advised to repeat EGD in 3 months to check for healing and for surveillance. Results discussed with patient. Significance of findings and importance of surveillance explained to patient. Anti reflux measures including increase physical activity explained to patient. All patient questions were answered. Patient understand and agrees to plan.'}
+-------------------------------------------------------------------------------------
+AUTHENTICATION
+Token eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+-------------------------------------------------------------------------------------
+{'Output': 'Dyspepsia, Esophageal Ulcer, Overweight, Colonic Ulcer, Erythematous Mucosa, Internal Hemorrhoids, LA Grade C Esophagitis, Gastroparesis, Gastritis'}
+-------------------------------------------------------------------------------------
+REQUEST : 
+<Request 'http://ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007/medical-entity' [POST]>
+-------------------------------------------------------------------------------------
+REQUEST FORM : 
+ImmutableMultiDict([])
+-------------------------------------------------------------------------------------
+REQUEST HEADERS : 
+Accept: application/json
+Authorization: Token eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwcmZ2ajh6X2hSTjFpMFpLeXplZ2pUdERTNXA5dkRORkE5RWFsbTFnQ0RBIn0
+Content-Type: application/json; charset=utf-8
+Content-Length: 887
+Host: ec2-34-223-50-104.us-west-2.compute.amazonaws.com:5007
+Connection: Keep-Alive
+Accept-Encoding: gzip
+User-Agent: okhttp/4.10.0
+
+
+-------------------------------------------------------------------------------------
+REQUEST ARGS : 
+ImmutableMultiDict([])
+52.45.146.17 - - [31/Oct/2023 06:54:57] "POST /medical-entity HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/flask_api.py", line 1, in <module>
+    from insuranceLLM import api
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/insuranceLLM/api.py", line 1, in <module>
+    from langchain.embeddings.openai import OpenAIEmbeddings
+ModuleNotFoundError: No module named 'langchain'
+Traceback (most recent call last):
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/flask_api.py", line 1, in <module>
+    from insuranceLLM import api
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/insuranceLLM/api.py", line 1, in <module>
+    from langchain.embeddings.openai import OpenAIEmbeddings
+ModuleNotFoundError: No module named 'langchain'
+Traceback (most recent call last):
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/flask_api.py", line 1, in <module>
+    from insuranceLLM import api
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/insuranceLLM/api.py", line 9, in <module>
+    embeddings = OpenAIEmbeddings(
+  File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for OpenAIEmbeddings
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass  `openai_api_key` as a named parameter. (type=value_error)
+Traceback (most recent call last):
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/flask_api.py", line 1, in <module>
+    from insuranceLLM import api
+  File "/home/ubuntu/development/python-app/llm_icd_code_extraction/insuranceLLM-master/insuranceLLM/api.py", line 9, in <module>
+    embeddings = OpenAIEmbeddings(
+  File "pydantic/main.py", line 341, in pydantic.main.BaseModel.__init__
+pydantic.error_wrappers.ValidationError: 1 validation error for OpenAIEmbeddings
+__root__
+  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass  `openai_api_key` as a named parameter. (type=value_error)
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 131-236-788
+202.191.67.30 - - [31/Oct/2023 08:49:19] "POST /medical-entity HTTP/1.1" 200 -
+---- Into the main Function ----
+ * Serving Flask app 'flask_api'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://172.31.62.72:5007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 131-236-788
+202.191.67.30 - - [31/Oct/2023 09:06:26] "POST /medical-entity HTTP/1.1" 200 -
+52.45.146.17 - - [31/Oct/2023 09:57:52] "POST /medical-entity HTTP/1.1" 200 -

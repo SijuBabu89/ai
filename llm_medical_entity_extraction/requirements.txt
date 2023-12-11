@@ -1,0 +1,7 @@
+numpy~=1.26.0
+scipy~=1.11.2
+setuptools~=68.2.2
+spacy
+scispacy
+render
+flask
